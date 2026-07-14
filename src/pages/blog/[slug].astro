@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+const base = import.meta.env.BASE_URL;
+const url = (path: string) => `${base}${path.replace(/^\//, "")}`;
 const formatDate = new Intl.DateTimeFormat("sv-SE", {
   year: "numeric",
   month: "long",
@@ -28,6 +30,6 @@ const formatDate = new Intl.DateTimeFormat("sv-SE", {
     <div class="article-content">
       <Content />
     </div>
-    <a class="back-link" href="/">Till arkivet</a>
+    <a class="back-link" href={url("/")}>Till arkivet</a>
   </article>
 </BaseLayout>

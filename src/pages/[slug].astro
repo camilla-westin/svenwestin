@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { Content } = await page.render();
+const base = import.meta.env.BASE_URL;
+const url = (path: string) => `${base}${path.replace(/^\//, "")}`;
 ---
 
 <BaseLayout title={page.data.title} description={page.data.excerpt || page.data.title}>
@@ -22,6 +24,6 @@ const { Content } = await page.render();
     <div class="article-content">
       <Content />
     </div>
-    <a class="back-link" href="/">Till arkivet</a>
+    <a class="back-link" href={url("/")}>Till arkivet</a>
   </article>
 </BaseLayout>

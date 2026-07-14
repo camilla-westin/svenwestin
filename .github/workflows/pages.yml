@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      PUBLIC_SITE_URL: https://camilla-westin.github.io
+      PUBLIC_BASE_PATH: /svenwestin
     steps:
       - name: Checkout
         uses: actions/checkout@v4

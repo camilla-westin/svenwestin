@@ -9,6 +9,7 @@ const blogDir = path.join(root, "src", "content", "blog");
 const pagesDir = path.join(root, "src", "content", "pages");
 const mediaDir = path.join(root, "public", "media", "imported");
 const reportPath = path.join(root, "import-report.json");
+const publicBasePath = normalizeBasePath(process.env.PUBLIC_BASE_PATH || "");
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -148,7 +149,7 @@ async function downloadMedia(url) {
     const hash = createHash("sha1").update(url).digest("hex").slice(0, 10);
     const basename = path.basename(parsed.pathname, ext).replace(/[^a-zA-Z0-9._-]+/g, "-") || "media";
     const filename = `${basename}-${hash}${ext}`;
-    const publicPath = `/media/imported/${filename}`;
+    const publicPath = `${publicBasePath}/media/imported/${filename}`;
     const filePath = path.join(mediaDir, filename);
 
     const response = await fetch(url, {
@@ -274,4 +275,12 @@ function slugify(value) {
 
 function yamlString(value) {
   return JSON.stringify(String(value ?? ""));
+}
+
+function normalizeBasePath(value) {
+  const trimmed = String(value || "").trim();
+  if (!trimmed || trimmed === "/") {
+    return "";
+  }
+  return `/${trimmed.replace(/^\/+|\/+$/g, "")}`;
 }
