@@ -1,0 +1,60 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const postsByYear = posts.reduce<Record<string, typeof posts>>((groups, post) => {
+  const year = String(post.data.date.getFullYear());
+  groups[year] ??= [];
+  groups[year].push(post);
+  return groups;
+}, {});
+
+const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
+
+const formatDate = new Intl.DateTimeFormat("sv-SE", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<BaseLayout title="Arkiv">
+  <section class="page-shell archive-layout">
+    <div>
+      <div class="prose">
+        <h1>Arkiv</h1>
+        <p class="lead">
+          {posts.length} importerade blogginlägg från Sven Westins gamla blogg, samlade som en statisk arkivversion.
+        </p>
+      </div>
+
+      {
+        years.map((year) => (
+          <section class="year-block" id={`ar-${year}`}>
+            <h2>{year}</h2>
+            <ul class="post-list">
+              {postsByYear[year].map((post) => (
+                <li>
+                  <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+                  <p class="archive-meta">{formatDate.format(post.data.date)}</p>
+                  {post.data.excerpt && <p>{post.data.excerpt}</p>}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+
+    <aside class="archive-year-nav" aria-label="Årsarkiv">
+      <h2>År</h2>
+      <div class="year-links">
+        {years.map((year) => <a href={`/#ar-${year}`}>{year}</a>)}
+      </div>
+    </aside>
+  </section>
+</BaseLayout>

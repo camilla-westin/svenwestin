@@ -1,0 +1,20 @@
+---
+title: "Teorin är sund"
+wpSlug: "teorin-ar-sund"
+date: "2008-12-06 19:28:19"
+author: "admin"
+excerpt: "Jag brukar med bestämdhet hävda att jag inte försökt påverka mina barns musiksmak men det är en ren och skär lögn som leder till att jag stup i kvarten mest liknar en berömd liten trädocka. Vad gäller dockor och andra le"
+sourceId: "224"
+originalUrl: "http://www.svenwestin.se/musik/teorin-ar-sund/"
+generated: true
+---
+
+Jag brukar med bestämdhet hävda att jag inte försökt påverka mina barns musiksmak men det är en ren och skär lögn som leder till att jag stup i kvarten mest liknar en berömd liten trädocka. Vad gäller dockor och andra leksaker så var min medvetna påverkan mindre uppenbar och mina döttrar fick även radiostyrda bilar och annat som vanligtvis betecknas som leksaker för killar. Som små söta töser var det i musikväg det vanliga utbudet med visor om spindlar på trådar, ekorrar i granar, tomtar kikande ut ur hus vid skogens slut och bussar som åkte runt vår dåvarande kommun Upplands Väsby men vid första antydan till intresse i rockmusik så blev det andra bullar av. Jag plockade demoniskt fram ett gammalt videoband med blandade rockvideos inspelade från TV och spolade fram till videon "I Love It Loud" med Kiss. I videon visas Kiss, som fortfarande är kvar i sin första sminkperiod, lockande med dånande rockmusik i fjärran och hur en ung pojke som ser väldigt skötsam och välvårdad ut lockas att lämna familjens trygga hamn, matbordet och föräldrarnas varma omsorg för att dras emot det kittlande och oemotståndligt farliga som vill ta honom till sig därute. Barnen åt upp denna video med ögon och öron och ville genast se den en gång till och ville också genast att jag skulle lägga med låten på de kassettband de lyssnade på vid läggdags. Där den inte särskilt diskret smög sig in bland barnlåtarna och eurodiskon de annars lyssnade på.
+
+Nu några år senare och i en annan kommun är min äldsta dotter både en konsument och utövare av rockmusik i stora mått. Ikväll ska hon och hennes pojkvän Emmanuel båda för andra gången vara gästmedverkande på en spelning med bandet "The Theory Is Sound." Första gången var på ärevördiga Mosebacke för några veckor sedan där 6 arga band blåste rent i örongångarna från vax och spindelväv på den entusiastiska publik som strömmat dit och fyllt stället. Giget gick väl hyfsat för "The Theory Is Sound" men mitt grundtips till bandet är att de kanske borde vänta med ölkonsumtionen till efter giget så kanske det spretar mindre i gitarrspelet och trumslagaren och basisten kanske kan befinna sig på samma ställe i låten vid fler tillfällen. Annars var det just trumslagaren som lyste som bandets starkaste instrumentalist och Camillas kör och soloinsatser på sången var ett rejält lyft. Det var i det stora hela ett bra men lite otight framträdande och jag tyckte att det var väl värt besöket för att höra dem även om de djävlarna aldrig gav tillbaka den kazoo jag lånade dem.
+
+Ikväll ska de alltså giga igen och denna gång blir det ännu rockigare eftersom de ska lira på en MC-klubb. Jag som precis håller på att läsa boken "Svensk maffia" blev lite skeptisk vid beskedet och hoppades vid det fortsatta läsandet att namnet på motorcykelklubben inte skulle dyka upp som en av de som tillhör "Hells Angels" eller "Bandidos" men det har den inte gjort, ännu så länge. Det är nu som min medvetna påverkan av mina barns musiksmak verkligen bär frukt då Camilla ska sjunga ett par klassiska pärlor av "Black Sabbath". När Camilla ikväll framträder med "The Theory Is Sound" bevisas enligt mitt förmenande att min teori är sund vad beträffar barn och musikalisk påverkan. Är du som förälder bara tålmodig, listig, målmedveten och skrupelfri så kan du till slut få dina barn att lyssna på vilken avart ur det musikaliska spektret som helst, lycka till!
+
+Vill du lyssna på "The Theory Is Sound" gå in på <a href="http://www.myspace.com/ttisband" rel="nofollow">www.myspace.com/ttisband</a>
+
+Och jag rekommenderar varmt låtarna "Time will end" "Insects" och "Walking World"

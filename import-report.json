@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-14T08:23:46.329Z",
+  "source": "svenwestin.wordpress.2026-07-14.xml",
+  "counts": {
+    "publishedPosts": 241,
+    "draftPostsSkipped": 83,
+    "pages": 3,
+    "mediaDownloaded": 32,
+    "mediaMissing": 0,
+    "encodingFixes": 0
+  },
+  "downloadedMedia": [
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/sven.jpg",
+      "local": "/media/imported/sven-b4f344892f.jpg",
+      "bytes": 162519
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/new-york-2.jpg",
+      "local": "/media/imported/new-york-2-dccfa185ff.jpg",
+      "bytes": 226544
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/new-york.jpg",
+      "local": "/media/imported/new-york-0b8b79b4c4.jpg",
+      "bytes": 289193
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/ekorre.jpg",
+      "local": "/media/imported/ekorre-360939afbe.jpg",
+      "bytes": 314346
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/golf.jpg",
+      "local": "/media/imported/golf-8259481f7a.jpg",
+      "bytes": 440648
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/sven1.jpg",
+      "local": "/media/imported/sven1-f1cfbd6989.jpg",
+      "bytes": 276733
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/girlie.jpg",
+      "local": "/media/imported/girlie-7a4efc1385.jpg",
+      "bytes": 416583
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/girlie2.jpg",
+      "local": "/media/imported/girlie2-c74c99d35c.jpg",
+      "bytes": 317240
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/haj.jpg",
+      "local": "/media/imported/haj-684c506476.jpg",
+      "bytes": 103452
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/elefant.jpg",
+      "local": "/media/imported/elefant-69f32d9644.jpg",
+      "bytes": 164044
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/syd.jpg",
+      "local": "/media/imported/syd-d4f5609192.jpg",
+      "bytes": 110976
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/seksie.jpg",
+      "local": "/media/imported/seksie-0a74613f8d.jpg",
+      "bytes": 65464
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2007/blackpearl200x200_1199108902_7319097.jpg",
+      "local": "/media/imported/blackpearl200x200_1199108902_7319097-28623f4612.jpg",
+      "bytes": 7499
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2007/3278905_1199108992_7319098.jpg",
+      "local": "/media/imported/3278905_1199108992_7319098-0a46eec042.jpg",
+      "bytes": 38881
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/dr_phil_and_dad_1199373866_7319099.jpg",
+      "local": "/media/imported/dr_phil_and_dad_1199373866_7319099-c062e55346.jpg",
+      "bytes": 27848
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/camilla.jpg",
+      "local": "/media/imported/camilla-0aac41f827.jpg",
+      "bytes": 102125
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/sicko.jpg",
+      "local": "/media/imported/sicko-c4c422e684.jpg",
+      "bytes": 114396
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/stukro_452_1204387842_7319103.jpg",
+      "local": "/media/imported/stukro_452_1204387842_7319103-fcd293266b.jpg",
+      "bytes": 296134
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/sims_1206106730_7319104.jpg",
+      "local": "/media/imported/sims_1206106730_7319104-19f1505640.jpg",
+      "bytes": 89668
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/tom_and_jerry1_772201_1206630665_7319105.jpg",
+      "local": "/media/imported/tom_and_jerry1_772201_1206630665_7319105-a3649991ce.jpg",
+      "bytes": 38704
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/heart_arrow_128x128_1208010390_7319107.png",
+      "local": "/media/imported/heart_arrow_128x128_1208010390_7319107-fda8462635.png",
+      "bytes": 16015
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/bild-433_8853472.jpg",
+      "local": "/media/imported/bild-433_8853472-84d18c8c10.jpg",
+      "bytes": 35320
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/bild-160_8853720.jpg",
+      "local": "/media/imported/bild-160_8853720-b15bf8c038.jpg",
+      "bytes": 75092
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/rymdsemla_11491195.jpg",
+      "local": "/media/imported/rymdsemla_11491195-ac824ba2ef.jpg",
+      "bytes": 9682
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/leif_1211641556_7319108.jpg",
+      "local": "/media/imported/leif_1211641556_7319108-8793911c2b.jpg",
+      "bytes": 5609
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/bonham.jpg",
+      "local": "/media/imported/bonham-df3b177d6d.jpg",
+      "bytes": 24098
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/skinkor_23157198.jpg",
+      "local": "/media/imported/skinkor_23157198-f1010cd761.jpg",
+      "bytes": 36193
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/8142_mad_santa_armed_24340879.jpg",
+      "local": "/media/imported/8142_mad_santa_armed_24340879-0cc4bfff6c.jpg",
+      "bytes": 16809
+    },
+    {
+      "source": "http://svenwestin.blogg.se/images/2008/geordie_cover_24636294.jpg",
+      "local": "/media/imported/geordie_cover_24636294-e5e476c5b2.jpg",
+      "bytes": 20592
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2013/10/svenwidth300.jpg",
+      "local": "/media/imported/svenwidth300-90c45274b3.jpg",
+      "bytes": 163807
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2014/08/iza.jpg",
+      "local": "/media/imported/iza-73c28d7579.jpg",
+      "bytes": 262692
+    },
+    {
+      "source": "http://www.svenwestin.se/wp-content/uploads/2014/08/iza-1024x681.jpg",
+      "local": "/media/imported/iza-1024x681-dc6e3fc3c0.jpg",
+      "bytes": 172738
+    }
+  ],
+  "missingMedia": [],
+  "encodingFixes": []
+}

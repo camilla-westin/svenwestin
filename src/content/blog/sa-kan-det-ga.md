@@ -1,0 +1,16 @@
+---
+title: "Så kan det gå"
+wpSlug: "sa-kan-det-ga"
+date: "2014-05-12 15:22:26"
+author: "Sven Westin"
+excerpt: "På min lista över urdåliga investeringar som hittills toppats av aktier i Telia och inköp av datorer utrustade för framtiden ligger nu även p-piller för katter. Det är uppenbarligen så att denna överreklamerade produkt i"
+sourceId: "323"
+originalUrl: "http://www.svenwestin.se/ovrigt/sa-kan-det-ga/"
+generated: true
+---
+
+På min lista över urdåliga investeringar som hittills toppats av aktier i Telia och inköp av datorer utrustade för framtiden ligger nu även p-piller för katter. Det är uppenbarligen så att denna överreklamerade produkt inte fungerar om man låter den ligga kvar i förpackningen. Jag plockade tjänstvilligt fram lädret och pröjsade när det begav sig på apoteket men allt mitt tjat och mina oändliga påminnelser kunde inte få min alltför kattintresserade sambo Agneta att smussla in pillren i katternas mat på reguljär basis.
+Nu är vi plötsligt fyra blinda i familjen och folk kommer från när och fjärran för att beskåda de små näpna blinningarna. Det var länge sedan någon kom för att beskåda mig, om det någonsin varit så. De gulliga hårbollarnas tillvaro består mestadels av att sova och suga på tutte så även där anser jag nog att de har det betydligt mysigare än undertecknad.
+Deras lilla bo är i vardagsrummet någon meter ifrån vår tv och jag är lite ambivalent beträffande deras brist på syn. Kanske är det synd att de inte kunde se hamsterhjulet på melodifestivalen, men de har ju inte börjat med fast föda ännu. Att de ännu inte fällt upp öronen torde dock vara bra eftersom en hel del av festivalbidragen bäst kunde avnjutas med ljudet av. Själv är jag skadad av åratal av leverne i denna moderna tid och blev glatt överraskad över den fantasi som flödar hos koreografer och scenografer i vårt frigjorda Europa. Tänk att få se, nåja höra och få syntolkat för mitt vidkommande, en sådan kavalkad av mysiga perversioner och avarter. Först ett hamsterhjul för de som tänder på rådisar och därefter en smaskig ostkaka för de som känner sig hungriga på matsex. Polska damer med rejäla brön som kärnar smör går inte heller det av för hackor och kan nog upplevas som lite skönt ekologiskt och lämnar knappast någon butter. Att finnarna direkt efter reagerade starkt på det polska inslaget råder det nog inget tvivel om eftersom de sjöng, ”rise up rise up”, så det stod härliga till om uttrycket ursäktas.
+Jag misstänker att alla fick just sin dröm uppfylld under kvällen och när sedan den skönsjungande skäggiga damen från Österrike helt rättvist vann jublade vi i mitt hem så att kattmamman vaknade och stirrade yrvaket och strängt på oss. Må även denna österrikiska seger ses som en rejäl brakfis i nyllet på den homofobiska despoten i Ryssland! De som tycker att franska är kärlekens språk fick även de sin beskärda del då alla länder utom just Frankrike levererade sina röster på engelska. Jag som är en elak fan undrade om fransoserna var arroganta eller efterblivna och dessa mina onda tankar lär som vanligt läggas till kontot med synder jag ska betala vid pärleporten en dag.
+Prognosen för mina små kattungar är god och om någon vecka kan de slå upp ögonen och beskåda världen. Då har förhoppningsvis ishockey-VM tagit slut och lugnet åter lagts sig i deras närmiljö.

@@ -1,0 +1,18 @@
+---
+title: "Antingen eller"
+wpSlug: "antingen-eller"
+date: "2008-07-18 13:40:34"
+author: "admin"
+excerpt: "Min sambo Agneta och jag var på Food Market och handlade idag och denna konkurrent till Konsum verkar inte ha det helt lätt för det är nästan alltid folktomt i butiken. Det får till följd för mig som konsument framförall"
+sourceId: "160"
+originalUrl: "http://www.svenwestin.se/funderingar/antingen-eller/"
+generated: true
+---
+
+Min sambo Agneta och jag var på Food Market och handlade idag och denna konkurrent till Konsum verkar inte ha det helt lätt för det är nästan alltid folktomt i butiken. Det får till följd för mig som konsument framförallt två saker och den första är att det är behagligt gott om plats och ingen elak gammal dam eller herre kör över mig med sin kundvagn och det är bra. Den andra konsekvensen är att luftkonditioneringssystemet fungerar mer än väl och det blir riktigt kyligt i hela affären. Där går man omkring i den lugna atmosfären med Gåshud och stenhårda bröstvårtor och försöker tänka ut någon bra sommarmat. Det blir alltså en fråga om ett rent overkill med så mycket kalluft och så få kunder men det är positivt tänkt från butiksledningens sida.
+
+Något som då måste betraktas som underkill är de ljudsystem man installerar i flygplan. Kärran kostar massor av miljoner men tydligen blir budgeten ansträngd efter omfattande investeringar i vingar, motorer, flygplansstolar, och allehanda elektronisk utrustning så när det är dags att köpa ett internt ljudsystem blir det uppenbarligen alltid ett billigt som låter rent bedrövligt. Är det för lågt påskruvat hör man inte vad kaptenen eller flygvärdinnan säger men om de drar på volymen så trillar nästan öronen av på passagerarna av den förskräckligt vassa ljudkaraktären. Jag är personligen orolig för konsekvenserna nu när nya sparbeting kommer inom alla flygbolag då höjda bensinpriser tär hårt på lönsamheten. Kanske kommer vi inom några år att åter längta efter de otroligt usla ljudsystemen då alla flygbolag infört megafoner utom ryan Air som låter sin personal göra en strut av en gammal Irländsk dagstidning att skrika i.
+
+Gick på en härlig blåsning häromdagen i form av Tower Of Power på Skeppsholmen. Detta härliga band från Kalifornien firar detta nådens år 2008 40 år som grupp och har i sin uppställning nästan lika många blåsare som kommunala musikskolan. Jag och mina kamrater njöt i fulla drag av den otroligt hårdsvängande funken men jag undrade hur min dotter Camilla som aldrig hört Tower Of Power förut skulle reagera. Efter några låtar sträckte jag ut handen i hennes riktning och kände hur hon dansade och svajade till musiken och hörde hur hon fnittrade glatt när gubbarna på scenen dansade loss eller gjorde roliga gester så då förstod jag att hon diggade fett. Kvällens huvud akt var den Amerikanska sångerskan Mary J. Blige som den kvällen vann VM i röstgymnastik och var helt otroligt tråkig.
+
+På tal om tråkigt så är Stockholm nu på sommaren fullt av vägarbeten och vid ett sådant råkade min kompis och bandkollega i Synliga, Ulf, gå in i en stolpe som stod på en plats där inga stolpar stått förut och han kände dessutom mycket väl till området eftersom det var på Skånegatan där han bor. Ulf som är helt blind sa som man brukar när man träffar stolpar och andra hårda föremål på detta oväntade sätt, aj! En av arbetarna som fixade med vägen såg Ulf: s kollision med stolpen och förhörde sig genast om Ulf var okej så Ulf tog genast tillfället i akt att fråga vad de jobbade med. Han fick till svar att de höll på med att handikappanpassa vägen och Ulf tänkte i sitt stilla sinne att de verkligen gjorde ett helvetes bra jobb.

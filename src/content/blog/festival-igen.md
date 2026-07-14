@@ -1,0 +1,14 @@
+---
+title: "Festival igen"
+wpSlug: "festival-igen"
+date: "2008-02-08 13:12:29"
+author: "admin"
+excerpt: "Så var det då dags för melodifestivalen igen även om det känns som den förra gick alldeles nyss. För eller emot har jag inga åsikter om men är proportionerna vettiga egentligen? En jättebudget, som dessutom är hemlig, fr"
+sourceId: "121"
+originalUrl: "http://www.svenwestin.se/musik/festival-igen/"
+generated: true
+---
+
+Så var det då dags för melodifestivalen igen även om det känns som den förra gick alldeles nyss. För eller emot har jag inga åsikter om men är proportionerna vettiga egentligen? En jättebudget, som dessutom är hemlig, från SVT; s sida läggs på detta enskilda program och det är kanske inte så konstigt att svenskproducerade musikprogram med livemusik i någon större skala lyser med sin frånvaro under resten av året. Ikväll på TV sa någon något som jag själv tänkt och faktiskt sa till en kompis för ett par månader sedan och säger någon något jag själv tycker så tycker jag så klart att det är bra sagt. Vad jag och den smarta bruden på TV sa var att man borde satsa pengar på ett program i stil med Jools Hollands' program Later som gått på BBC i många år. Där tar han emot artister av olika slag och alla spelar live och nya spännande artistkollaborationer och häftiga versioner av sagda artisters låtar framförs. Ett riktigt toppen program även om man inte gillar alla artister och i fråga om innovativa och roliga musikupplevelser en hästlängd intressantare än melodifestivalen och med en budget som en sådan så skulle det kunna gå året runt. Vi har dessutom gjort sådana program förut och många av er minns säkert Oppopoppa och Måndags Börsen vars like tyvärr lyser med sin frånvaro i alla TV kanaler idag vare sig det är public service eller reklambaserade sådana.
+
+En annan aspekt på festivalen är att all svensk musik som skall lanseras blir det som tar sig in i tävlingen och i stort sett all annan svensk musik får det otroligt svårt eller är helt körd. Är detta verkligen rimligt med tanke på att kriterierna vid urvalet till tävlingen knappast bygger på kvalitet utan snarare är stoffet till ett brett underhållningsprogram med maximal musikalisk bredd för att locka tittare från alla kategorier vad gäller ålder och klasstillhörighet. Det förvånar mig också att det inte sägs mer om myglet vid låtvalet eftersom det åtminstone i branschen är allmänt känt men det är nog för stora pengar inblandat även för media för att någon skall börja rota alltför djupt. Det må dock vara hänt men det är nog som jag ser det lite sorgligt att alla eller nästan all kulturella Ägg skall läggas i samma korg och då är det tråkigt om alltför många av dessa också är ruttna. Jag ifrågasätter som sagt var proportionerna och inte kvaliteten för den måste vara bra eftersom tittarsiffrorna är så höga men ni minns väl det gamla talesättet, "100 miljarder flugor kan inte ha fel, ät skit".

@@ -1,0 +1,22 @@
+---
+title: "Ljuva teknik"
+wpSlug: "ljuva-teknik"
+date: "2015-06-01 11:55:38"
+author: "Sven Westin"
+excerpt: "På kvällsnyheterna visades ett reportage om en äldre dam som fått ha en robot i sitt hem under en månads tid. Den moderna versionen av \"Plåt-Nicklas\" var synnerligen avancerad och kunde bistå den gamla tanten med allehan"
+sourceId: "486"
+originalUrl: "http://www.svenwestin.se/ovrigt/ljuva-teknik/"
+generated: true
+---
+
+På kvällsnyheterna  visades ett reportage om en äldre dam som fått ha en robot i sitt hem under en månads tid. Den moderna versionen av "Plåt-Nicklas" var synnerligen avancerad och kunde bistå den gamla tanten med allehanda göromål. Den talade om när det var dags för medicinering och levererade även rätt tabletter samtidigt som den kunde stimulera med konversation. Troligen städade roboten och tusan vet om den inte kunde brassa pannkakor också?
+Den gamla damen var ytterst nöjd med månaden som varit och tyckte att det varit fint att ha roboten i sitt hem. Som avslutning sa hon att det varit så pass stimulerande att hon inte ens hade haft tid att sitta och tänka på döden.
+Jag som ibland har en rejält snuskig fantasi kan se en framtid för oss alla med bara en aning modifierade robotar anpassade för män och kvinnor. Tack vare teknikutvecklingen så ser plötsligt framtiden ljus ut för oss alla, halleluja!
+
+På tal om teknik så var det på fredagskvällen klara besked på väderleksrapporten att det skulle bli oklart, ja rent regnigt faktiskt.
+- Det blir regn imorgon. Sa sambo Agneta listigt och jag rycktes ur det katatoniska tillstånd som alltid drabbar mig när vädret drar igång under nyhetssändningen.
+- Nej det blir nog inget regn. Min oförmåga att ta till mig väderleksrapporternas budskap verkar ligga djupt rotat. Innerst inne tror jag fortfarande att de som arbetar på SMHI är någon slags spågubbar och spåkärringar som stirrar stint i kristallkulor, lägger harpor med tarotkort eller kastar skelettdelar från smådjur och gnagare i sina försök att sia om vädret. Det är kanske dags för mig att inse att vädersatteliter och avancerade dataprogram faktiskt kan förutsäga hur blöt jag kommer att bli vid mina oregelbundna utomhusvistelser. Det var i alla fall så jag tänkte när jag blev genomsur på väg till taxin för att bege mig till lördagens gig på "Svartkrogen." Att jag dessutom efter avslutad spelning vid kvällens slut var tvungen att sätta på mig en halsduk mot kylan fick texten "sköna maj …" att kännas mer förljugen än alla de töntiga kärlekstexter som genom åren drabbat mitt arma öra.
+
+På tal om drabbade öron så har det genom åren hänt en del rent tekniskt vad det gäller ljud och musiklyssnande. Är det någon som minns vinylsvarvarna som bestod av en liten färgglad plastlåda där man lyfte av locket som då tjänade som högtalare? En sunkig med ganska listig skivspelare var det och med batterier kunde man låta popmusiken ljuda vart man än befann sig.
+Sedan dess har det hänt en del och både stationärt och bärbart ljud har utvecklats en del men plötsligt finner man sig sittande där med en rad olika ljudmedia. Vill det sig riktigt illa så har man musikfavoriter eller gamla radioklassiker liggande på media man inte längre har maskiner som klarar av. Försök att lira en kassett eller en 78 varvsskiva i datorn så får du se hur bra det går!
+En vän till mig ringde häromdagen och berättade att nu jäklar hade han hittat en dundermaskin som skulle förlösa hans musiktekniska bekymmer en gång för alla. Musiklådan han hittat på nätet kunde spela upp allt från stenkakor till blue tooth och allt däremellan som med jämna mellanrum historiskt varit det som gällt. Dessutom kunde man spela över skivor och kassetter till ett USB-minne och det enda jag tyckte saknades var ett dragspelsfilter. Troligen för att attrahera målgruppen i fråga så är popmaskinen gjord i trä och designad i skön 50-tals retro. Allt detta för under 3000 kronor och i förlängningen så byggs väl hela konkarongen in i den skönt husliga robot vi alla vill ha därhemma. Vid tanken får jag svårt att bärga mig tills jag blir gammal nog för att få den härliga robothonan som kan spela alla mina skivor och band, dammsuga och feja, ge mig medicin och väl utvalda piller, lira kort och frågesport, hämta posten, mata katterna och värma min säng och ge mig kärlek och tröstande ord på kvällen. För helvete människor vi måste helt enkelt med det snaraste lösa det där med den framtida energiförsörjningsfrågan för det här kan bli hur bra som helst!

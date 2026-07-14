@@ -1,0 +1,33 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+const formatDate = new Intl.DateTimeFormat("sv-SE", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<BaseLayout title={post.data.title} description={post.data.excerpt || post.data.title}>
+  <article class="article">
+    <header class="article-header">
+      <h1>{post.data.title}</h1>
+      <p class="post-meta">{formatDate.format(post.data.date)} av {post.data.author}</p>
+    </header>
+    <div class="article-content">
+      <Content />
+    </div>
+    <a class="back-link" href="/">Till arkivet</a>
+  </article>
+</BaseLayout>

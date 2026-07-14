@@ -1,0 +1,19 @@
+---
+title: "ord har betydelse"
+wpSlug: "ord-har-betydelse"
+date: "2018-11-03 13:56:06"
+author: "Sven Westin"
+excerpt: "Är det någon mer än jag som tycker att vissa ord ligger lite för nära varandra och som ofelbart leder till att man tänker på det ena när man hör det andra? När jag hör eller tänker använda ordet huvudlös tänker jag omede"
+sourceId: "660"
+originalUrl: "http://www.svenwestin.se/ovrigt/ord-har-betydelse/"
+generated: true
+---
+
+Är det någon mer än jag som tycker att vissa ord ligger lite för nära varandra och som ofelbart leder till att man tänker på det ena när man hör det andra? När jag hör eller tänker använda ordet huvudlös tänker jag omedelbart huvudlöss. Skitjobbigt och där står jag och kliar mig förbryllat i skallen och undrar varför det är så och varför jag var så huvudlös att jag valde just ordet huvudlös.
+Beträffande ordet tekniker och tekniker är läget alltid prekärt. Läser man ett av dessa ord så vet man inte hur det ska betonas utan att först ta till sig den information som döljer sig i den mening som de ingår i. Meningen ger med andra ord meningen. Jag är ingen tekniker och har heller inte hittat några bra tekniker för att få bukt med problemet.
+Politiker som påstår sig ha stark miljöinriktning har i Stockholm i sin "vishet" bestämt sig för att inte bygga den östra delen av den ringled Stockholm så väl behöver. Ett av argumenten att inte bygga är att man vill ha mindre bilar i Stockholmstrafiken. Jag är troligen lite korkad men kan för mitt liv inte förstå hur en vägsträcka hit eller dit kan påverka bilars storlek. Fler lektioner i svenska och färre päroncider hade kanske hjälpt mig att uppnå upplysning!
+Mitt barnbarn Iza 6 år sa häromdagen i bilen vid anblicken av en liten skog nära hennes hem som höll på att fällas att mindre träd skulle göra att vi inte kan andas. - Vi behöver syre och mindre träd kommer att bli dåligt för oss. Jag misstänkte starkt att de talat om regnskogar och liknande på hennes förskola men sa vuxet och skittråkigt att det inte var mindre träd som var problemet utan färre. Jag fortsatte med att förklara skillnaden mellan de två orden men utan en sekunds tvekan kom hennes replik. - Det spelar ingen roll för man får lika mycket syre från ett litet träd som från ett stort träd. Touché!
+Jag hörde talas om olika utbildningar som man ansåg borde permanentas för att säkerställa tillgången av framtida anställda med rätt kompetens. Det lät helt logiskt i mina öron även om jag inser att det är lätt att falla för frestelsen att i första hand permanenta frisörsutbildningen. Vill man då istället ha programmerare, poliser, brandmän, vårdpersonal och andra viktiga yrkesgrupper i tillräckligt antal för framtida behov så kammar man då självklart noll.
+En yrkeskår som det redan råder brist på är enligt nyheterna är patologer. Intresset för utbildningen är stendöd och att sedan jobbet i sig är stressigt och underbemannat kan enligt nyhetsinslaget leda till felbedömningar. Som jag ser det så låter det där med felbedömningar från en patolog nog så allvarligt i anknytning till Halloween och ökar sannolikt förekomsten av zombies. Klagomål om felbehandling från patienter lär dock lysa med sin frånvaro.
+På tal om fel så verkar det som att vissa fel med tiden accepteras och blir rätt. Att man lagar bilar har jag inga problem med men att man lagar mat är desto underligare. Är vi helt enkelt lata och har gjort en genväg och därmed förvandlat tillaga till det smidigare laga? Det talas mycket om att det slängs massor av mat och är det kanske så att den helt enkelt är trasig? Ska vi i sådana fall acceptera den trasiga maten eller som vi tydligen redan gör helt enkelt slänga bort den?
+Vi kanske inte borde ägna oss åt att märka ord men tycker inte ni också att vi ändå borde märka orden? Vi borde tala med varandra men jag har glömt ditt nummer så "ring du va" eller skicka en lämplig fågel! Om vi bara växlar några ord så kan nog ordningen bli återställd.

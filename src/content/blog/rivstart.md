@@ -1,0 +1,41 @@
+---
+title: "Rivstart"
+wpSlug: "rivstart"
+date: "2008-06-08 23:22:14"
+author: "admin"
+excerpt: "Det hade varit lite si och så med nattsömnen och telefonens signal lät både olycksbådande och ilsken. Jag svarade på andra signalen med en sådan där intim röst långt nere i basregistret som bara finns på morgonen och fic"
+sourceId: "94"
+originalUrl: "http://www.svenwestin.se/funderingar/rivstart/"
+generated: true
+---
+
+Det hade varit lite si och så med nattsömnen och telefonens signal lät både olycksbådande och ilsken. Jag svarade på andra signalen med en sådan där intim röst långt nere i basregistret som bara finns på morgonen och fick genast örat fullt med upprörd tonåring.
+
+"Det har inte gått nått bra, vi har missat tåget!"
+
+Den känslan har jag nästan varje morgon så det var inget nytt men i det här fallet var det verkligen så att det tilltänkta tåget rullat bort. Min äldsta dotter Camilla och hennes pojkvän Emmanuel skulle med sagda tåg ta sig hem från Sweden Rock Festival (det SRF som rockar) för att vara med på min syster Maries bröllop i Helenelund men nu satt de fast i Sölvesborg. Camilla skulle vara en av brudtärnorna och även spela och sjunga en låt i kyrkan och Emanuel agera fotograf så nu var goda råd dyra. Klockan var strax efter 6 och nästa tåg skulle inte avgå förrän om någon timma enligt den förkrossade Camilla och det skulle heller inte finnas någon personal i stationsbyggnaden före kl. 8. Jag sa en smula skärrad till Camilla att ta det lugnt och att vi skulle undersöka vad som kunde göras åt saken från vårt håll för att få upp dem till Stockholm till kl. 15.00 då ceremonin skulle ta sin början i guds hus. Camilla var upprörd eftersom de suttit och sovit i stationsbyggnaden större delen av natten och hon hållit mobilen i handen för att verkligen vakna när den gick igång med väckningssignalen men någon sådan kom aldrig. Det visade sig bero på en finess som gör att väckningssignalen är av aktiverad om det inte är en arbetsdag så denna lördagsmorgon förblev den tyst. Deras tält hade dessutom blivit fullständigt ner pissat så tillvaron kändes tung och motig plus att de hoppat över att titta på kvällens huvud akt Def Leppard för att verkligen hinna med sista bussen till tågstationen. Det stod ganska snart klart at ett senare tåg inte var ett alternativ om de skulle hinna till vigseln i tid.
+
+(Här tänkte jag att man i filmversionen av detta blogginlägg skulle lägga in låten "Get Me To The Church On Time" och filma med skakig kamera a la dogma.)
+
+Nu var det en titt på flyget som gällde och vi hoppade genast in på Luftfartsverkets hemsida och insåg genast att en större internetkanon än min mor och jag behövdes så ett stort bett togs ur det sura Äpplet och jag ringde den blivande bruden och min eviga syster Marie. Hon tog det hela med beundransvärt lugn och fattning och med hjälp av hennes kontakter kunde efter mycket om och men två flygbiljetter bokas. De närmaste flygplatserna var Kristianstad och Ronneby men så lätt skulle det inte gå för därifrån var alla flyg fullbokade de närmaste tre dagarna så det logiska fick göras ologiskt. Ungdomarna fick helt sonika ta tåget till Malmö, taxi till Sturup och farfars transportservice från Bromma till Helenelund. Camilla som aldrig flugit inrikes förut skickade ett oroligt SMS där det stod, "men vi har inga pass". Det tyckte jag var så sött att jag inte kunde låta bli att garva mitt i eländet. Gemenskapen firade enorma triumfer denna morgon då alla i familjen var inblandade i projektet "få hem ungdomarna från Blekinge i tid". Sambo Agneta (känd Getingjägare från Nacka) kom med goda råd, syrran körde dator och nyttjade ovärderliga kontakter, jag var sambandscentral, mamma var sekreterare och pappa jourhavande chaufför och de två sistnämnda agerade även plånbok då de goda råden visade sig kosta 1600 kr. st. plus ett par hundra till Pågatåget och med 495 till taxin till flygplatsen slutade kalaset på ungefär 4300 kr.
+
+&nbsp;
+<div><img alt="parkbänk" src="/media/imported/bild-433_8853472-84d18c8c10.jpg" /></div>
+<div align="center"></div>
+<div align="center"><strong>En äkta SRF-hjälte.</strong></div>
+Efter att ha löst ungdomarnas dilemma så borde dagens strapatser därmed ha varit till ända men jag hade lite hjärnsläpp när jag beställde färdtjänstbil för transport till kyrkan och glömde bort realiteten att de flesta körningar samplaneras och att taxin ofta kommer sent. Det var precis vad som hände och jag satt i bilen med Agneta och blev stressad samtidigt som ungdomarna stressade som tok på sitt håll för att snabbduscha och byta om och min stackars syster stod i kyrkan med sin blivande man och undrade om det försvinnande lilla antalet inbjudna skulle bli en fingertutt. Syrran berättade för prästen hur det hela låg till och han var villig att vänta en kvart om det behövdes men en minut över tre klev följet med ungdomarna in i kyrkan och fem minuter senare klev Agneta och jag in så den totala förseningen blev ungefär tio minuter.
+
+Det var en kort och fin vigselceremoni med vacker musik och Camilla gjorde ett bra framförande av Carole Kings "You've Got A Friend" men närmare James Taylors version med sång och akustisk gitarr. Det var två psalmer varav den ena var "Den blomstertid nu kommer" som varje svensk bär i sitt hjärta som den stora sommarlovlåten nr. 1 men den andra psalm 84 kände jag inte igen. Jag har lite svårt för svenska psalmer eftersom jag tycker de är ganska dystert och inte alls avspeglar glädjen i att ha en gud och fast och trygg grund att luta sig emot i tillvaron som jag tror att troende har.
+
+Båda intressenter sa ja så då var det lika bra att genast åka till Edsbacka krog och fira beslutet. Det blev många rätter med fantastisk mat och ingen var längre stressad men framåt slutet av måltiden började både Camilla och Emmanuel gå in i något slags koma och tystnade märkbart och började klippa med ögonen. Då firandet efter krogbesöket fortsatte hemma hos det nu äkta paret, alltså var de om inte falska så oäkta innan, så slocknade de båda ungdomarna på soffan och sov tills det var dags för hemfärd senare på kvällen. Vi åldringar och de små barnen höll dock igång med stor bravur i många trevliga timmar och lät Champagnen svalka våra strupar. Jag kan varmt rekommendera en Champagnefylla för den är långsam, mjuk, lätt att hålla på en skön nivå och har egentligen ingen nackdel annat än priset men det kanske leder till att man inte super för ofta.
+
+&nbsp;
+<div><img alt="Marie Tommi" src="/media/imported/bild-160_8853720-b15bf8c038.jpg" /></div>
+<div align="center"><strong>Det numera ÄKTA paret Tommi och Marie.</strong></div>
+Jag skrev tidigare att ungdomarna fått sitt tält ner pissat på festivalen och jag fick när vi satt och pratade hemma hos brudparet veta vad som hänt. Det var nationalistiska element som dragit igenom camping och festivalområdet skanderande tyska slagord som "seig heil" och annat skit som inte gillat åsynen av Emmanuel som härstammar från Colombia och ser väldigt sydamerikansk ut. Retade av att se honom med sin blonda flickvän och troligen bara för att han fanns överhuvudtaget förvandlade idioterna tältet till pissoar. Camilla och Emmanuel tappade lusten för festivalande och packade ihop sitt ner pissade lånade tält och tog bussen till tågstationen för att invänta morgontåget och som det heter, "the rest is history". Nationaldagsfirande tycker jag att man ska ha och man ska få vara stolt över sitt land och ursprung men de ultranationalistiska element som beter sig som dessa nere på Sweden Rock Festival eller de korkskallar som blev arresterade i Stockholm på nationaldagskvällen är en skam. Ni som beter er på detta sätt må vara stolta över att vara svenska men jag som svensk skäms över er och ert enfaldiga beteende.
+
+Idag är det söndag och i en tradition instiftad av gud för årtusenden sedan så tänker jag ta det otroligt lugnt idag och inte stressa en sekund men trots dessa mina förutsättningar så ligger jag självklart i lä mot ungdomarna som faktiskt inte klivit upp ännu fastän över halva dagen redan gått.
+
+Min yngsta dotter Mimmi 17 år är i Estland på ett ridläger och nu väntar jag varje morgon med bävan på att telefonen skall ringa.
+
+"Hej pappa det är Mimmi det går inget bra för mig, jag har missat båten."

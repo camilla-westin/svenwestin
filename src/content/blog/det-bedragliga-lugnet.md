@@ -1,0 +1,20 @@
+---
+title: "Det bedrägliga lugnet"
+wpSlug: "det-bedragliga-lugnet"
+date: "2014-10-24 10:31:13"
+author: "Sven Westin"
+excerpt: "Förutom ett par svängar upp ur den sköna sängvärmen för att på morgonkvisten utfodra och en stund senare släppa ut de två katterna så var min nya dag fylld av ett stilla milt lugn. Sambo Agneta hade redan morgonen innan "
+sourceId: "400"
+originalUrl: "http://www.svenwestin.se/ovrigt/det-bedragliga-lugnet/"
+generated: true
+---
+
+Förutom ett par svängar upp ur den sköna sängvärmen för att på morgonkvisten utfodra och en stund senare släppa ut de två katterna så var min nya dag fylld av ett stilla milt lugn. Sambo Agneta hade redan morgonen innan flugit till Malmö med jobbet och när nu kissarna var utgångna fanns inte något som kunde störa mitt rofyllda vegeterande.
+Jag hämtade mig ett par stärkande päron och käkade frukost i sängen som en värsta lyxgubbe. Frukten gjorde att jag kände mig som en filosofisk romare och saknade egentligen bara en divan och Kleopatra iklädd smycken och parfym.
+Jag grunnade lojt på min samtid och det slog mig att inte heller jag sett någon ubåt från främmande makt men att jag faktiskt är blind. Vad har försvaret att säga till sitt försvar? Jag flinade också åt minnet av hur en representant för FI under gårdagens debatt på TV skyllde upprustningen i världen och den påstådda kränkningen av svenskt territorialvatten på det aggressiva patriarkatet. I stort sett allt våld utförs av män hävdade hon och det tror jag stämmer alldeles utmärkt men när det gäller politik och beslut om krigshandlingar eller spioneri är jag mer tveksam om att det alltid är de höga "herrarna. Undrar om hon har hört talas om Margaret Thatcher?
+Mitt sinne var alltså denna tidiga stund glasklart och fullt med irrande tankar och jag hoppade ivrigt upp för att genast omsätta surret i skallen till ord i en blogg.
+Kläderna på, ner för trappa ett för tillverkning av kaffe, vidare ner för trappa två och fram till datorn där mitt rigida finger tryckte till. Med en kort väsning från fläkten vaknade min lydiga burk och jag satte resolut ner ändan i min härliga fåtölj. Med en kroppshållning som Frankensteins monster ur en klassisk svartvit skräckrulle gjorde jag mig redo att skapa blogghistoria.
+Det var precis då det kändes kallt och vått under vänster ben och skinka. En näve skickades ut för att undersöka saken och hela nervsystemet gick in i alarmläge. I en symbios från helvetet möttes min hand av en kall kladdig kattspya och stanken intog näsa och luftvägar. Som skjuten ur en kanon flög jag upp och de ord som därefter kom ur min mun kommer aldrig att förekomma i något barnprogram.
+Jag är djurvän men jag erkänner att mina tankar i sagda stund kretsade en del kring tillverkning av pälsmössor. Storleken på högen katten åstadkommit gjorde också att jag funderade på om jag kanske borde ge dem mindre portioner eller helt gå över till torrfoder.
+När jag träffar mina gullekissar nästa gång kommer jag att tala vänligt, och rätt fånigt faktiskt, med dem och de kommer att bli klappade och kliade, men det var bra både för dem och jag att de inte var hemma just när jag med stor möda sanerade stol och golv. Ni ska få slippa äckliga detaljer men låt mig få säga att som blind är det inte helt ultimat att leta rätt på allt stinkande kladd som kan komma ur ett husdjur.
+Det bedrägliga lugnet som startade min dag var som bortblåst och nu sitter jag med nya byxor och strumpor och klickar på mitt tangentbord och trots att jag i över en halvtimme städat efter bästa förmåga så ligger det fortfarande en svag men distinkt doft av nyuppspydd kattmat i hela rummet. Kanske är det gud som straffar mig för min drift med vårt tappra försvar och med representanter för ett seriöst enfrågeparti? Om vår herre tror att han kan få stopp på mig så lätt så blir han besviken för jag har både fler trasor och en hel del hushållspapper kvar att bemöta dylika attentat med. Önskar just nu bara att jag inte hade en fullt så utvecklad kran och kallt kaffe är inte heller någon höjdare. Kanske borde jag köpa mig en doftgran i eftermiddag?

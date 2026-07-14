@@ -1,0 +1,24 @@
+---
+title: "Är det möjligt?"
+wpSlug: "ar-det-mojligt"
+date: "2015-04-14 08:16:15"
+author: "Sven Westin"
+excerpt: "Det finns ett gammalt ordspråk som lyder, \"när det regnar välling så har den fattige ingen sked.\" Det är måhända en smula bittert och möjligen sant men det beror på hur man tar sig ann verkligheten. Det kunde dessutom va"
+sourceId: "476"
+originalUrl: "http://www.svenwestin.se/ovrigt/ar-det-mojligt/"
+generated: true
+---
+
+Det finns ett gammalt ordspråk som lyder, "när det regnar välling så har den fattige ingen sked." Det är måhända en smula bittert och möjligen sant men det beror på hur man tar sig ann verkligheten. Det kunde dessutom vara värre och kanske är det snarare så här det ska stå. "När det regnar välling så drunknar den fattige."
+Nu undrar säkert de klartänktaste av er, vad är det han svamlar om nu då? Jo så här tänkte jag. Det är väldigt svårt att få uppmärksamhet i media när man anser att man kommer med något spännande. Jag som varande någon form av artist finner det riktigt besvärligt och har personligen fått ett och annat "brilliant " pressmeddelande ignorerat. Detta även vid tillfällen då jag verkligen tyckt att de varit fullmatade med godis och enligt mig varit kulturellt högintressanta.
+Det var därför jag för ett par veckor sedan blev grönare än grodan Kermit av avund vid nyheten om en kör för gossar som kommit in i målbrottet. Kören kallas följaktligen "Målbrottskören" och hördes både i radio och på tv misshandla den fantastiska låten av David Bowie "Life On Mars." Om man gör kopplingen katter i mars så var låtvalet genialt men annars var det mest obehagligt i örat.
+Att gossarna i den svajiga röståldern är grymt sångsugna är självklart berömvärt och ska absolut bejakas men varför detta enorma genomslag i media? Pojkarnas ömma mödrar lär ha blöta ögon av stolthet på konsert och när inslagen i media sänds men för resten av världen lär det mest likna lyteskomik.
+Det blir onekligen lite "Monty Python's Flying Circus" över det hela och sketcher som den om simtävlingen för icke simkunniga dyker upp i huvudet. Startskottet går och alla deltagare hoppar i bassängen för att omedelbart sjunka till botten.
+Löpartävlingen för folk med små blåsor är en annan man kommer att tänka på och där går startskottet och alla deltagare springer blixtsnabbt in i närmsta buske för att lätta på trycket.
+Lite samma tema när starten går för löpare utan känsla för riktning. Alla springer åt olika håll och fullständig oreda uppstår.
+Vad kan vi förvänta oss härnäst? Kanske en tävling om bästa frisyren för flintskalliga, vegetarianernas köttigaste grilltips, logdans för folk med hösnuva, kurser i positivt tänkande för bluesmusiker, sköna heminredningstips från luffare, språkkurser i svenska av engelska kockar och dansare eller den ultimata gastkramaren till tv-underhållning där vi får följa med ledande politiker inom SD när de släktforskar. Ett sådant rysligt program som det sistnämnda skulle kunna ta en ände med förbrödring.    
+Varför envisas människor ge sig på berg när det finns småsten? Om man håller på så här så kommer en massa förvirrade individer att tro att det går att åstadkomma en massa positiva förändringar och då blir gamla surgubbar som jag helt förlegade. Det går faktiskt inte att göra vad som helst och jag har personligen försökt mig på en hel del. Det senaste berget jag slog mig halvt fördärvad emot var när jag som blind försökte titta på "Let's Dance" på tv. Jag kämpade så att svetten lackade i pannan men det visade sig vara helt omöjligt! Gnyende fick jag slokörad lämna rummet och låg därefter i flera timmar ynkligt pipande under sängen med tummen i munnen. Nu tog jag kanske i lite för i sanningens namn så satt jag i soffan i mitt musikrum och spisade en platta med Seasick Steve och mumsade godis men ni förstår säkert principen. 
+I skrivande stund så slår det mig att det nog är jag som är inskränkt och inte inser det stora och innovativa som sker runtom mig. Det är faktiskt inte bara "Målbrottskören" som ger sig på att göra det de vill trots svåra odds och den ena av årets vinnare av Polarpriset är en döv slagverksvirtuos från Skotland vid namn Evelyn Glennie. Det är stort och jag gratulerar innerligt till framgången trots att hon kommer från en sådan avkrok annars mest känd för sjöodjur som inte finns.
+Själv tillhör jag den ljusskygga skara av blinda musiker som har gjort precis tvärtom. Vi har mörklagt spellokalen och tar därefter in gästerna. På det viset har vi faktiskt skapat en miljö där vi är de minst handikappade. Effektivt javisst men otroligt fegt!
+Ett ordspråk fick börja denna epistel och därför ska jag avsluta på samma vis. När jag häromdagen hade oturen att hamna mitt i ett regnoväder och hukande och surt muttrande småsprang mot mitt läckra men torra hem stod följande bevingade ord klart för mig. "Det finns inget dåligt väder bara dåliga ordspråk!"
+En sak till bara innan jag lägger ner. Jag är inte bitter bara lite obalanserad!

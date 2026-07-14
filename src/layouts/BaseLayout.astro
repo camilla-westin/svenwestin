@@ -1,0 +1,39 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const siteTitle = "Sven Westin";
+const { title, description = "Bloggarkiv för Sven Westin" } = Astro.props;
+const pageTitle = title ? `${title} | ${siteTitle}` : siteTitle;
+---
+
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="/">Sven Westin</a>
+      <nav class="site-nav" aria-label="Huvudmeny">
+        <a href="/">Arkiv</a>
+        <a href="/ommig/">Om Mig</a>
+        <a href="/utgivet/">Utgivet</a>
+        <a href="/kontakt/">Kontakt</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>Statisk arkivversion av bloggen Sven Westin.</p>
+    </footer>
+  </body>
+</html>
